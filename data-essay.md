@@ -9,7 +9,7 @@
 <https://data.mos.ru/opendata/7710152113-zakon-o-byudjete-goroda-moskvy-na-2018-god-i-planoviy-period-2019-i-2020-godov-vedomstvennaya-struktura-rashodov/data/table?versionNumber=1&releaseNumber=20>
 
 **Владелец наборов данных:**	Департамент финансов города Москвы
-**Ответственные за наборs данных:*** Школдина Екатерина Геннадьевна
+**Ответственные за наборs данных:** Школдина Екатерина Геннадьевна
 **E-mail:** <EGShkoldina@fin.dep.mos.ru>
 **Телефон:** (495) 957-92-07, доб. 64426
 **Формат данных:**	JSON
