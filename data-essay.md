@@ -7,8 +7,8 @@
 ### 3.	Источники данных
 Данные – это зарегистрированная информация. В отличие от обычной информации данные представляют собой факты, понятия или инструкции в форме, приемлемой для общения, интерпретации, обработки человеком или с помощью автоматических средств. Информация же – это сведения независимо от формы их представления. <br/>
 ***Ссылки на данные в источнике:*** <br/>
-<https://data.mos.ru/opendata/7710152113-zakon-o-byudjete-goroda-moskvy-na-2014-god-i-planoviy-period-2015-i-2016-godov/data/table?versionNumber=1&releaseNumber=30 
-https://data.mos.ru/opendata/7710152113-zakon-o-byudjete-goroda-moskvy-na-2015-god-i-planoviy-period-2016-i-2017-godov-vedomstvennaya-struktura-rashodov/data/table?versionNumber=1&releaseNumber=14> <br/>
+<https://data.mos.ru/opendata/7710152113-zakon-o-byudjete-goroda-moskvy-na-2014-god-i-planoviy-period-2015-i-2016-godov/data/table?versionNumber=1&releaseNumber=30> <br/>
+<https://data.mos.ru/opendata/7710152113-zakon-o-byudjete-goroda-moskvy-na-2015-god-i-planoviy-period-2016-i-2017-godov-vedomstvennaya-struktura-rashodov/data/table?versionNumber=1&releaseNumber=14> <br/>
 <https://data.mos.ru/opendata/7710152113-zakon-o-byudjete-goroda-moskvy-na-2016-god-i-planoviy-period-2017-i-2018-godov-vedomstvennaya-struktura-rashodov/data/table?versionNumber=1&releaseNumber=17> <br/>
 <https://data.mos.ru/opendata/7710152113-zakon-o-byudjete-goroda-moskvy-na-2017-god-i-planoviy-period-2018-i-2019-godov-vedomstvennaya-struktura-rashodov/data/table?versionNumber=1&releaseNumber=17> <br/>
 <https://data.mos.ru/opendata/7710152113-zakon-o-byudjete-goroda-moskvy-na-2018-god-i-planoviy-period-2019-i-2020-godov-vedomstvennaya-struktura-rashodov/data/table?versionNumber=1&releaseNumber=20> <br/>
